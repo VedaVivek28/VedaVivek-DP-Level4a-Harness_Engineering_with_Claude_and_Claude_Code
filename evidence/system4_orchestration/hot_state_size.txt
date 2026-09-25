@@ -1,1 +1,0 @@
--rw------- 1 student student 643 Sep 24 15:07 data/hot_state.json
