@@ -1,0 +1,8 @@
+shift: C
+indexed query: defects_since
+warm-tier total defects: 142
+SQL-filtered defects returned for shift C: 8
+full history loaded into model prompt: no
+hot_state_path: data/hot_state.json
+hot_state_size_bytes: 643
+fork isolation: scratchpad written under hypothesis_id shift-C only
